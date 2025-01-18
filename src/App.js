@@ -4,7 +4,7 @@ render(){
   var myStyle={
     fontSize:80,
     fontFamily:'Courier',
-    color:'#003300'
+    color:'yellow'
   }
   return(
     <div>
